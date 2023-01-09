@@ -1,6 +1,6 @@
-# Interlace Website
+# Interlace.Works 
 
-http://interlace.works
+http://andyl/github.io/interlace
 
 Powered by [Jekyll](https://jekyllrb.com).
 
@@ -10,4 +10,3 @@ Powered by [Jekyll](https://jekyllrb.com).
     gem install jekyll bundler 
     bundle exec jekyll serve 
 
-## 
