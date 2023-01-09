@@ -1,0 +1,5 @@
+#!/usr/bin/env bash 
+
+# https://alexplescan.com/posts/2016/03/28/development-environment-config-overrides-in-jekyll/
+
+bundle exec jekyll serve --config "_config.yml,_config_dev.yml"
